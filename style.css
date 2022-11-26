@@ -1,0 +1,22 @@
+body{
+    background-color: #302c2c;
+}
+.tetulo{
+    text-align: center;
+}
+.nav-link{
+    font: bolder;
+    font-size: x-large;
+    
+}
+.button{
+    font-size: x-large;
+}
+.table{
+    max-width: 100px;
+}
+.image{
+    width: 20px;
+
+}
+
